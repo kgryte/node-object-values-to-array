@@ -36,6 +36,9 @@
     "convert",
     "pluck",
     "toarray",
+    "obj",
+    "arr",
+    "obj2arr",
     "to"
   ],
   "bugs": {
