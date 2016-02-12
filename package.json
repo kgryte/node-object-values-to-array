@@ -1,6 +1,6 @@
 {
   "name": "object-values-to-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extract object values into an array.",
   "author": {
     "name": "Athan Reines",
