@@ -23,10 +23,12 @@ var toArray = require( 'object-values-to-array' );
 Extracts `object` values into an `array`.
 
 ``` javascript
-var arr = toArray({
+var obj = {
 	'a': {'b':'c'},
 	'd': {'e':'f'}
-});
+};
+
+var arr = toArray( obj );
 // returns [{'b':'c'},{'e':'f'}]
 ```
 
